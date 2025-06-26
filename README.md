@@ -1,6 +1,6 @@
-# SEO GURU 🔍
+# Auditly 🔍
 
-![SEO GURU Preview](preview.gif)
+![Auditly Preview](preview.gif)
 
 A comprehensive, instant SEO analysis platform that provides visual insights into website performance using free, open-source tools. No sign-up required!
 
@@ -79,7 +79,7 @@ A comprehensive, instant SEO analysis platform that provides visual insights int
 
 ## 🚀 Getting Started
 
-1. Visit the live app at: [SEO GURU App](https://your-app-url.replit.app)
+1. Visit the live app at: [Auditly App](https://your-app-url.replit.app)
 2. Enter your website URL (including http:// or https://)
 3. Wait for the analysis to complete
 4. Explore the detailed results across different categories
@@ -89,8 +89,8 @@ A comprehensive, instant SEO analysis platform that provides visual insights int
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/seo-guru.git
-cd seo-guru
+git clone https://github.com/abdul-09/Auditly.git
+cd seo-guru-main
 ```
 
 2. Install dependencies
