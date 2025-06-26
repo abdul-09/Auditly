@@ -79,7 +79,7 @@ A comprehensive, instant SEO analysis platform that provides visual insights int
 
 ## 🚀 Getting Started
 
-1. Visit the live app at: [Auditly App](https://your-app-url.replit.app)
+1. Visit the live app at: [Auditly App](https://abdul-09-auditly-main-xyyw6v.streamlit.app/)
 2. Enter your website URL (including http:// or https://)
 3. Wait for the analysis to complete
 4. Explore the detailed results across different categories
